@@ -13,10 +13,10 @@ authentication, caching, and well-structured data models.
 ## Skills
 
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-**Databases & Storage:** MongoDB, Redis, MySQL, PostgreSQL, AWS S3
+**Databases & Storage:** MongoDB, Redis, MySQL, PostgreSQL,Sequelize, AWS S3
 **Languages:** JavaScript, Python, Java, C++
-**Tools:** Git, GitHub, Postman, Docker
-**Frontend (familiar):** React
+**Tools:** Git, GitHub, Postman
+
 
 ## Projects
 
